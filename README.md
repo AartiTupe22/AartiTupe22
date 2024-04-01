@@ -1,6 +1,7 @@
 **Aarti Sham Tupe**
 
-Aspiring Data Scientist | Python | SQL | Tableau | Machine Learning| Generative AI
+**Aspiring Data Scientist | Python | SQL | Tableau | Machine Learning | Generative AI**
+
 Welcome to my GitHub profile! I am Aarti Tupe, an Aspiring Data Scientist with a passion for leveraging data to drive insights and solve real-world problems. I have a strong foundation in Python, SQL, Tableau, and Machine Learning.
 
 **About Me**
